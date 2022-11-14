@@ -1,0 +1,13 @@
+account_id = ""
+compatibility_date = "2021-09-27"
+name = "marpri-live"
+routes = ['*.marpri.live/*', 'marpri.live/*']
+type = "webpack"
+webpack_config = "webpack.config.js"
+zone_id = ""
+
+[build]
+command = "npm install && npm run wp:build"
+
+[build.upload]
+format = "service-worker"

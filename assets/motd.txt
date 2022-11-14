@@ -1,0 +1,28 @@
+// Source for marpri.live web (partial)
+// Hosted on Cloudflare Workers
+/*          M    A    R    P    R    I    L
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMdhhhhhhhhhhNMMMMMMMMNhhhhhhhhhhmMMMMMMMMM
+   MMMMMNhysssssssssssssyymMNdyssssssssssssssyhNMMMMM
+   MMMmdsssssssssssssssyhMNmssssssssssssssssssssdmMMM
+   MNdsssssssssssssssydNMdysssssssssssssssssssssssdNM
+   MdsssssssssssssssmNMdyssssssssssssssssssssssssssdM
+   NdssssssssssssydMMNyssssssssssyNMMdyssssssssssssdN
+   ssssssssssssyhMMMMNdhhsssssshdMMMMMMhyssssssssssss
+   sssssssssssmNMMNhhdMMMmyssymMMMdhhNMMNmsssssssssss
+   yssssssssdNMMMhysssyyhMNNNNMhyysssyyMMMNdssssssssy
+   MdssssyhMMMMNmssssssssshmmhsssssssssydMMMMdyssssdM
+   MmssydNMMMMdyssssssssssssssssssssssssydMMMMNdyssmM
+   MNNmNMMMMdyssssssssssssssssssssssssssssydMMMMNmNNM
+   MMMMMMNmssssssssssssssssssssssssssssssssssmNMMMMMM
+   MMMMMMhsssssssssssssssssssssssssssssssssssshMMMMMM
+   MMMMMMmdyssssssssssssssssssssssssssssssssydmMMMMMM
+   MMMMMMMMNNNssssssssssssssssssssssssssssNNNMMMMMMMM
+   MMMMMMMMMMMMmyssssssssssssssssssssssymMMMMMMMMMMMM
+   MMMMMMMMMMMMMMdhsssssssssssssssssshdMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMNmmdssssssssssssdmmNMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMNhyyssssyyhNMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMMMMMmhhmMMMMMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM */
